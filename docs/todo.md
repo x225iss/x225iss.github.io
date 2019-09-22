@@ -1,0 +1,2 @@
+- Section for AUVSI competition (my role, technical design paper, etc., what I learned)
+- For project sections with an associated paper, maybe try to have a "banner" showing the top of the paper with a link to the report, then the section below can have the markdown content...**OR you can just post the paper!**

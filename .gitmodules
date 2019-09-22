@@ -1,0 +1,6 @@
+[submodule "apps/map-viewer"]
+	path = apps/map-viewer
+	url = https://goromal@bitbucket.org/goromal/map-viewer.git
+[submodule "apps/budget-analyzer"]
+	path = apps/budget-analyzer
+	url = https://goromal@bitbucket.org/goromal/budget-analyzer.git
