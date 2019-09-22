@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "budget-sheet-access",
+  "private_key_id": "b7b95513cadd8d9d1cd42aa54faa727b19b56584",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1kCEH3hsSbY/I\nZM8zcOCG5hrS1/YC49/LcffxTn6zuw+dS0BFuUBZza7gBNK0bIuAV+6+p+C2splf\n+ndLVEc+uUzbLZwdZugM9rIiMKNRmAauEb9OHrb65QPdu72kxbvcE+XJhHbqnirS\n92RsObxJRrB0HLGsx/78d5V08s20aGzlYSUaxpIETXf9Kc2Ie3WjaC3YhLhzQp0S\nDhQJ1atSzakvFLhaizOqKmk6KGPL4fJbWnKczQZGbYjv/fjOT/luaGzqAS8LKvJm\nOyaCIUXupiD7fA1CVwOhreLmHevvqH/MfZZl9LHRUyxELPSA6QCGivNOkeGmOn4U\nge+2kiGVAgMBAAECggEAB7rmcR2PdQIlpkBGgxfp80xeNX5c2sQlbdXBGuy+37uV\n31pKFv3bY8dqS97gsq5RZSo5P7RJkLW7anbxN8uTifPdNhKzzBuqwwyIyoRcG7f3\nhtc6GCMeIsH332ukGB0UEbtmI+WII5aO17MROztdDRidoB/tn5/XNxwHSLais+zQ\nyQG8TIpT3p7fWzbIZsKtfcqFAEPqvu1Py0+eifSLp1Y+RRBsu2E0EzuLP7yikhke\nVHNmAO331e7nyI3HjvPvjjdCrSdg0+rMgkfLech91WhzD7WIzp2Rlb1wOPDWKeVB\nP+4fdDzpNzgVyyAGT/oXeTcNHsbo9d3Vd0tzPBoa0QKBgQDwK+hNVE6rbgZam36l\n1zT34K++CD82DKNrBKD02u/1zv7blRr8r/qQ1bN93jcZ9hivZKOszyInpTevSZ9s\neilsHp5ynThxi1gEBavKPO+KNN9T9redbxSSCkXIAFXNzIHr2m4bC6Jf9/Y28UUL\nnVLJK2IUCZho3SfBvLug2i9FBQKBgQDBh2YNZk4GqGA1wXDWrMueFOz7SlOu9Xfi\nVccMdbI0mMI/LidZvkA5GJ9WCU+lYNX/i6VeHvV1nDX9qivNGr1ikOyNvzY+Q3cN\nYXj5LNxxWaT+mAl/qTRXjXMqBi+xEs3YHsyhjkNqOBx7MBqs0Ru8tOjwWa8Qt8Bu\nHajyKuoPUQKBgBipyZ83SyTblZd0ZFsPcIcL8cAoBKW+QoHY5dZ/LSkm6pEODMlq\nIOcCqv3/9dSaqwpH4W77jlxX4RIFE3QGT36k3kySzJsMXit7kZqhC1A8AbsTmON3\n5rrghy30qtsJZ0YbFjd8yF3mjsgxmo+IxlmWNOot2hLasxx4DySDg1spAoGBAIMT\nlcdVl1tjB2bhUe/UsUSsn6XDvdIuZ7hgqKSDwuNk44uvUu+xsAX76092lv9ICyk+\nCA8roMy7tMXOUERm7Aaqac3HyJF7WFMzxZ/fBp+vO9VEXIqeq9jw8SNxdTPVrJ3I\nnoh9tqNmxcOZ3TdXmhXB4lOIKs6D5k2uwRLkhgtBAoGAPWa2s8Xf7rfZRZYzUNRD\niAcSWOOAUqGwpctOnCyccn0P518m5OPz9rsBQre742R1LEKmH+vAWx5XNr+tO0iF\nQMh/kHXs8UAfIOHZkcScHzoA5b7FfnZW2MHv3wigFMidWFBuP/H8G7WOeu4MNSoF\nX42cIppJ7FfrOgAR9zpHxrY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheet-accessor@budget-sheet-access.iam.gserviceaccount.com",
+  "client_id": "114181142818272171071",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheet-accessor%40budget-sheet-access.iam.gserviceaccount.com"
+}
