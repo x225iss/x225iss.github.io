@@ -1,0 +1,27 @@
+main:
+  - title: "Main Site"
+    url: ..
+
+docs:
+  - title: "Dynamics & Control"
+    children:
+      - title: "LQR Control with Lie Groups and Auto-Differentiation"
+        url: /Autonomy/DynamicsAndControl/Lie LQR SO2.pdf
+  - title: "Estimation & System Identification"
+    children:
+      - title: "6-DOF Camera Extrinsics Calibration"
+        url: /Autonomy/EstimationAndSysID/cameraCalibration
+  - title: "Digital Art"
+    children:
+      - title: "Portraits"
+        url: /DigitalArt/portraits
+      - title: "Landscapes"
+        url: /DigitalArt/landscapes
+  - title: "Essays on Topics in Philosophy"
+    children:
+      - title: "Realism vs. Nominalism"
+        url: /Essays/RealismNominalism.pdf
+      - title: "Aristotelian Science"
+        url: /Essays/Aristotle.pdf
+      - title: "Thomas Aquinas on Reason and Revelation"
+        url: /Essays/Aquinas.pdf
